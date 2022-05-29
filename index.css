@@ -4,6 +4,8 @@
     flex-wrap: wrap;
     text-align: center;
     padding: 0px;
+    font-family: 'Style Script', cursive;
+    font-siza:22;
 }
 
 .header, .articulo, .izquierda, .derecha, .footer{
