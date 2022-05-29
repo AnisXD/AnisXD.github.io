@@ -29,8 +29,8 @@
     .footer{order: 2;}
 }
    
-.header{background: #581845;}
-.articulo{background: #FFC300}
-.izquierda{background: #900C3F}
-.derecha{background: #C70039}
-.footer{background: #DAF7A6}
+.header{background: blue;}
+.articulo{background: white;}
+.izquierda{background: lightblue;}
+.derecha{background: green;}
+.footer{background: blue;}
