@@ -5,7 +5,7 @@
     text-align: center;
     padding: 0px;
     font-family: 'Style Script', cursive;
-    font-siza:22;
+    font-siza: 22;
 }
 
 .header, .articulo, .izquierda, .derecha, .footer{
@@ -32,7 +32,7 @@
 }
    
 .header{background: #004AAC;}
-.articulo{background: #6D96FF;}
 .izquierda{background: #58C2FF;}
+.articulo{background: #6D96FF;}
 .derecha{background: #00C2CB;}
 .footer{background: #004AAC;}
